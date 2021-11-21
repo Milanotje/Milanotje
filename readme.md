@@ -65,4 +65,6 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Milanotje?tab=followers"><img src="https://img.shields.io/github/followers/Milanotje?label=Followers&style=social" alt="GitHub Badge"></a>
+<a>
+    <img src="https://komarev.com/ghpvc/?username=Milanotje">
+</a>
