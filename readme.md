@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Discord Selfbot](https://github.com/Milanotje/Milanotje-s-selfbot)**
+- 🔭 I’m currently working on **[Getting GitHub CoPilot](https://copilot.github.com)**
 
 - 🌱 I’m currently learning **Python.**
 
